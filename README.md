@@ -13,6 +13,6 @@ different amino acids.
 
 ## Visualization
 The output plot shows the distribution of energies, where:
-- Each point corresponds to an amino acid.
-- Each amino acid is represented by a unique color.
-- Patterns of energy distribution can be compared visually.
+- Each point corresponds to an amino acid
+- Each amino acid is represented by a unique color
+- Patterns of energy distribution can be compared visually
